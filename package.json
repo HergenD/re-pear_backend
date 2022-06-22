@@ -12,7 +12,7 @@
   "license": "MIT",
   "homepage": "https://github.com/n-esty/re-pear_backend",
   "dependencies": {
-    "async": "^3.1.1",
+    "async": "^3.2.2",
     "socket.io": "^2.3.0"
   }
 }
