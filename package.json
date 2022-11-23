@@ -13,6 +13,6 @@
   "homepage": "https://github.com/n-esty/re-pear_backend",
   "dependencies": {
     "async": "^3.1.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
